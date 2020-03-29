@@ -1,48 +1,48 @@
-CORPO E FAMÍLIA
+CORPO[5]FAMÍLIA
 
 Intro:
-        F#m           C#m            D                 A
+       [7m]         [2m]          [3]                A
 Coração regenerado, coração transformado, 
-        Bm                    A                  E
+       [12m]                  [10]                 E
 Coração que é inspirado por Jesus 
 
 
-        A                   D                 A
+       [10]                 [3]                A
 Recebi um novo coração do Pai
-        F#m           C#m          D                   A
+       [7m]         [2m]        [3]                  A
 Coração regenerado, coração transformado, 
-        Bm                  A                   E
+       [12m]                [10]                  E
 Coração que é inspirado por Jesus 
 
-            A                  D             A 
+           [10]                [3]           [10]
 Como fruto desse novo coração
-       F#m                   C#m 
+      [7m]                 [2m]
 Eu desejo a paz de Cristo, 
-       D               A  
+      [3]             [10] 
 Te amo meu irmão
-      Bm           A                  E7
+     [12m]         [10]                 E7
 Preciosa é a nossa comunhão
 
-              A               D                   E           C#m           F#m               
+             [10]             [3]                 [5]         [2m]         [7m]              
 Somos corpo e assim bem ajustado, totalmente ligado, 
-   D         Bm              E    
+  [3]       [12m]            [5]   
 Unido vivendo em amor
-            A                D                    E           C#m            F#m        
+           [10]              [3]                  [5]         [2m]          [7m]       
 Uma família sem qualquer falsidade, vivendo a verdade,
-           D              Bm              E
+          [3]            [12m]             E
 Expressando a glória do Senhor
-            A          D                          E
+           [10]        [3]                         E
 Uma família vivendo o compromisso 
-      C#m                     F#m 
+     [2m]                   [7m]
 Do grande amor de Cristo
-            D          Bm     E         A             
+           [3]        [12m]   [5]       [10]            
 Eu preciso de ti, querido irmão
-      F#m                Bm           E         A  
+     [7m]              [12m]         [5]       [10] 
 Precioso és para mim, querido irmão.
 
 
 Final:
-            D          Bm     E         A             
+           [3]        [12m]   [5]       [10]            
 Eu preciso de ti, querido irmão
-      F#m                Bm           E         A  
+     [7m]              [12m]         [5]       [10] 
 Precioso és para mim, querido irmão.

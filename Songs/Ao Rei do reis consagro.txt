@@ -1,47 +1,47 @@
 AO REI DOS REIS CONSAGRO
 
 Intro:
-       A                      E        G                 D           
+      [10]                    [5]      [8]               [3]          
 Ao Rei do reis consagro tudo o que sou
-      D                                  A                    E     
+     [3]                                [10]                  [5]    
 De gratos louvores transborda o meu coração
 
 
-       A                      E        G                 D           
+      [10]                    [5]      [8]               [3]          
 Ao Rei do reis consagro tudo o que sou
-      D                                  A                    E     
+     [3]                                [10]                  [5]    
 De gratos louvores transborda o meu coração
-    A                 E                 G                                    D
+   [10]               [5]               [8]                                   D
 A minha vida eu entrego nas tuas mãos meu Senhor
-D                A                     E
+D               [10]                    E
 Pra Te exaltar com todo meu amor
-A                 E                        G         D          
+A                [5]                      [8]       [3]         
 Eu Te louvarei conforme a tua justiça 
-    D                 A                      B             E
+   [3]               [10]                    [12]            E
 E cantarei louvores pois Tu és altíssimo
  
 
-             D      E                       F#m   	                D                E                   A7  
+            [3]    [5]                     [7m]  	               [3]              [5]                  A7  
 Celebrarei a Ti ó Deus com meu viver, cantarei e contarei as tuas obras
-               D                 E                      C#m          
+              [3]               [5]                    [2m]         
 Pois por tuas mãos foram criados terra, 
-               F#m            D    E               F#
+              [7m]          [3]  [5]              F#
      céu e mar e todo ser que neles há
-          Bm                    E           A                 F#m                 D      E              F#
+         [12m]                  [5]         [10]               [7m]               [3]    [5]             F#
 Toda terra celebra a Ti com cânticos de júbilo pois Tu és o Deus criador
-          Bm                    E           A                 F#m                 D      E             A  
+         [12m]                  [5]         [10]               [7m]               [3]    [5]           [10] 
 Toda terra celebra a Ti com cânticos de júbilo pois Tu és o Deus criador
-              D      E              A        F#m                 D      E              A        E7
+             [3]    [5]            [10]      [7m]               [3]    [5]            [10]       E7
 Pois Tu és o Deus criador,               pois Tu és o Deus criador
 
 
-    A                             E                            F#m                                  
+   [10]                           [5]                          [7m]                                 
 A honra (a honra), a glória (a glória), a força (a força)
- C#m                         D                Bm      G       E7     
+[2m]                       [3]              [12m]    [8]      E7     
 E o poder ao Rei Jesus e o louvor ao Rei Jesus   
-    A                             E                            F#m                                  
+   [10]                           [5]                          [7m]                                 
 A honra (a honra), a glória (a glória), a força (a força)
- C#m                        D                Bm       G       E7     
+[2m]                      [3]              [12m]     [8]      E7     
 E o poder ao Rei Jesus e o louvor ao Rei Jesus   
          A
 O Senhor

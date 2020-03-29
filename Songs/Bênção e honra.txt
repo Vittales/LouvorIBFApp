@@ -1,18 +1,18 @@
-BENÇÃO E HONRA
+BENÇÃO[5]HONRA
  
 Intro:
-C                                                    Am           G         F      G
+C                                                   [10m]         [8]       [6]     G
 Bênção e honra, glória e poder sejam ao eterno Deus;
 
 
 
 C
 Bênção e honra, glória e poder
- Am           G         F      G
+[10m]         [8]       [6]     G
 Sejam ao eterno Deus;
 C
 Todas as nações, toda a criação
-      Am                          G         F      G
+     [10m]                        [8]       [6]     G
 Se prostem diante do eterno Deus
 
 F                                     G
@@ -21,17 +21,17 @@ F                                   G
 Todo joelho se dobrará em louvor;
 F                                 G
 Tu serás exaltado ó Deus
-               F          Dm              G                     C
+              [6]        [3m]            [8]                    C
 E o Teu reino jamais passará;   Ó eterno Deus!
 
 
 C
 Bênção e honra, glória e poder
- Am           G         F      G
+[10m]         [8]       [6]     G
 Sejam ao eterno Deus;
 C
 Todas as nações, toda a criação
-      Am                          G         F      G
+     [10m]                        [8]       [6]     G
 Se prostem diante do eterno Deus
 
 F                                     G
@@ -40,7 +40,7 @@ F                                   G
 Todo joelho se dobrará em louvor;
 F                                 G
 Tu serás exaltado ó Deus
-               F          Dm              G                     C
+              [6]        [3m]            [8]                    C
 E o Teu reino jamais passará;   Ó eterno Deus!
 
 
