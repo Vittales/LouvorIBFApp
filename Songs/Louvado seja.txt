@@ -1,33 +1,33 @@
 LOUVADO SEJA
 
 Intro:
-G                 [3]     [6]                    [1]   
+G                  D       F                      C    
     Louvado seja,     Senhor Teu nome
-Cm         [8]   [5m] [10m]                   [3]         
+Cm          G     Em   Am                     D          
     Entronizado,              entre as nações 
 
 
  
-G                 [3]     [6]                   [1]   
+G                  D       F                     C    
     Louvado seja,     Senhor teu nome
-Cm         [8]    [5m] [10m]                   [3]         
+Cm          G      Em   Am                     D          
     Entronizado,               entre as nações 
-G          [3]   [6]            C
+G           D     F             C
     Exaltarei,     a Ti Senhor
-Cm                   [8] [5m] [10m]            [3]        
+Cm                    G   Em   Am              D         
     Pelo que Tu és,          eu Te adorarei
 
-G                           D/F#                 [6]                  C
+G                           D/F#                  F                   C
 Recebe a minha adoração que é fruto de tua graça a mim
-   [1m]                           [8]                        [10m]                  D7   
+    Cm                             G                          Am                   D7   
 E do Teu amor, que restaura em mim o meu amor por Ti, Jesus.
-G                D/F#     [6]                    [1]       
+G                D/F#      F                      C        
 Engrandecerei, e exaltarei o Teu nome
-[1m]                     [8]                           [10m]           [3]     D7
+ Cm                       G                             Am             D      D7
 Diante dos reis e dos poderosos eu louvarei a Ti, Senhor
-G                D/F#     [6]                    [1]       
+G                D/F#      F                      C        
 Engrandecerei, e exaltarei o Teu nome
-[1m]                     [8]                           [10m]           [3]             G
+ Cm                       G                             Am             D              G
 Diante dos reis e dos poderosos eu louvarei a Ti, Senhor
 
 

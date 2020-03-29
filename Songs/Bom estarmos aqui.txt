@@ -1,29 +1,29 @@
 BOM ESTARMOS AQUI
 
 Intro:
- [3]                    [5m]                    [7m]     Em
+  D                      Em                      F#m      Em
 Bom estarmos aqui louvando a Deus,
-    [3]             [5m]                 [7m]     [5m]  
+     D               Em                   F#m       Em   
 Podendo exaltar seu santo nome,         
 
 
 
-D                        [5m]                    [7m]     Em
+D                         Em                      F#m      Em
 Bom estarmos aqui louvando a Deus,
-    [3]             [5m]                 [7m]         Em
+     D               Em                   F#m          Em
 Podendo exaltar seu santo nome,         
-D                        [5m]                    [7m]     Em
+D                         Em                      F#m      Em
 Bom estarmos aqui louvando a Deus,
-    [3]             [5m]                 [7m]     D7     
+     D               Em                   F#m      D7     
 Podendo exaltar seu santo nome
 
-G                  [10]     [7m]                [12m]     
+G                   A       F#m                  Bm      
 Tempo para isso, tempo para louvarmos a Deus,
-Em          [10]                    [3]      [10m]  [3]					
+Em           A                      D        Am    D 					
 Num só amor, num só espírito;
-G                  [10]     [7m]                [12m]     
+G                   A       F#m                  Bm      
 Tempo para isso, tempo para louvarmos a Deus,
-Em          [10]                    [3]       A7
+Em           A                      D        A7
 Num só amor, num só espírito.
 
 
@@ -31,13 +31,13 @@ Num só amor, num só espírito.
 
 
 Final:
-D                                  [5m]
+D                                   Em 
 Deus venha nos abençoar 
-                      [10]  [8]    	                  [3]   A7
+                       A    G     	                   D    A7
 e que esta união nunca falte para nós
-D                                    [5m]
+D                                     Em 
 Deus venha nos abençoar 
-                      [10]  [8]                        [3]   A7    D
+                       A    G                          D    A7    D
 e que esta união nunca falte para nós  
 
 

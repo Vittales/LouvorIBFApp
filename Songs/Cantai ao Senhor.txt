@@ -1,36 +1,36 @@
 CANTAI AO SENHOR
 
 Intro:
-      [2m]     [3]            [2m]           D
+       C#m       D              C#m            D
 Cantai ao Senhor, bendizei o seu nome;
-Bm                              [8]     E7
+Bm                               G      E7
 Proclamai a sua salvação.
 
 
-      [10]           E	        [10]         E
+       A            E	         A          E
 Cantai ao Senhor um cântico novo,
-      [7m]     [2m]  D
+       F#m       C#m   D
 Cantai ao Senhor, todas as terras.
-      [2m]     [3]            [2m]           D
+       C#m       D              C#m            D
 Cantai ao Senhor, bendizei o seu nome;
-Bm                              [8]     E7
+Bm                               G      E7
 Proclamai a sua salvação.
 
-           [10]                   E	    [10]        E
+            A                    E	     A         E
 Anunciai entre as nações a sua glória,
-F#m                   [2m]       D
+F#m                    C#m        D
 Entre todos os povos as suas maravilhas.
-C#m                     [3]                    [2m]                   D
+C#m                      D                      C#m                    D
 Porque grande é o Senhor, mui digno de ser louvado,
-Bm                                        [8]  E7
+Bm                                         G   E7
 Mais temível do que falsos deuses.
 
-A                     D	       [10]               D
+A                     D	        A                D
 Glória e majestade estão diante d'Ele, 
-A                    [3]          [8]           [5]        
+A                     D            G             E         
 Força e formosura no seu santuário
-A                    [3]         [10]               D
+A                     D           A                D
 Glória e majestade estão diante d'Ele, 
-A                    [3]          [8]             E7  [10]    
+A                     D            G              E7   A     
 Força e formosura no seu santuário
 
