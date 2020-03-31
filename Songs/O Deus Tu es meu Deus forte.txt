@@ -3,39 +3,39 @@
 Intro:
 D                                                        A
 Ó Deus Tu és o meu Deus forte, o grande El Shaddai
-Bm            F#m           G    
+Bm           [7m]         [8]   
 Todo poderoso, Adonai
 
 
 D                                                        A
 Ó Deus Tu és o meu Deus forte, o grande El Shaddai
-Bm            F#m           G    
+Bm           [7m]         [8]   
 Todo poderoso, Adonai
-                  D            A                    Bm                G
+                 [3]          [10]                  [12m]               G
 Teu nome é Maravilhoso, Conselheiro, Príncipe da paz,
-D                     A                 G
+D                    [10]                G
 Yeshua Hamashia, Deus Emanuel.
 
-D                                 A 	  		     Bm                 F#m             G
-O Pastor de Israel, o Guarda de Sião, A brilhante Estrela da Manhã.
-                   D                    A                  Bm                 G
+D                                [10]	  		    [12m]               [7m]            G
+O Pastor de Israel, o Guarda de Sião,[10]brilhante Estrela da Manhã.
+                  [3]                  [10]                [12m]                G
 Jesus, teu Nome é precioso, meu Senhor e Cristo,
-    D                   A                  G
+   [3]                 [10]                 G
 O Nome sobre todos, pelo qual existo. 
 
-D        A                        Bm          G   D             A                    Bm
+D       [10]                      [12m]        [8] [3]           [10]                   Bm
 Jireh, Deus da minha provisão,      Shalom, o Senhor é a minha paz.
-Em                                    A		       Em                                      A
+Em                                    A		      [5m]                                     A
 Shamar, Deus presente sempre está.   El-Elyon, outro igual não há!
 
-D                A                           Bm                F#m          G
+D               [10]                         [12m]              [7m]         G
 Jeovah Rapha, meu Senhor,      que cura toda a dor,
-          D               Em                A      D
+         [3]             [5m]              [10]     D
 Tsekenu Yaveh,      minha justiça é.
-                   A	         Bm                  F#m          G        A                D 
+                   A	        [12m]                [7m]        [8]      [10]              [3]
 Elohim, Elohim, Deus, No controle está o meu Deus, tudo governa!
 
-Bm G A
+Bm[8]A
 
 O Pastor de Israel...
 Jireh, Deus da minha provisão...
@@ -43,5 +43,5 @@ Jeovah Rapha...
 Jeovah Rapha...
 
 Final:
-Bm G A                 D
+Bm[8]A                 D
            Tudo governa!!

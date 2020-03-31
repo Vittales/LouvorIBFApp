@@ -1,48 +1,48 @@
 QUEM PODE LIVRAR
 
 Intro:
-G                    Bm                     C     D
+G                   [12m]                   [1]    D
 Quem pode livrar como o Senhor
-G               Bm                          C     D	      
+G              [12m]                        [1]    D	      
 Ele é poderoso para me guardar        
 
 
 
-G                       Bm                     C     D
+G                      [12m]                   [1]    D
    Quem pode livrar como o Senhor
-G                  Bm                          C     D	      
+G                 [12m]                        [1]    D	      
    Ele é poderoso para me guardar        
-G                       Bm                     C     D
+G                      [12m]                   [1]    D
    Quem pode livrar como o Senhor
-G                  Bm                          C     D	      
-   Ele é poderoso para me guardar        
-   
-
-G                    Bm        Am
-   Quando os meus inimigos
-G              Bm                  Am
-   Se levantaram contra mim
-C        D               G            Em           C                D         G7
-  O Senhor estendeu sua mão para mim e me deu a vitória
-C        D               G            Em           C                D         G
-  O Senhor estendeu sua mão para mim e me deu a vitória
-
-
-G                       Bm                     C     D
-   Quem pode livrar como o Senhor
-G                  Bm                          C     D	      
-   Ele é poderoso para me guardar        
-G                       Bm                     C     D
-   Quem pode livrar como o Senhor
-G                  Bm                          C     D	      
+G                 [12m]                        [1]    D	      
    Ele é poderoso para me guardar        
    
 
-G                    Bm        Am
+G                   [12m]       Am
    Quando os meus inimigos
-G              Bm                  Am
+G             [12m]                 Am
    Se levantaram contra mim
-C        D               G            Em           C                D         G7
+C       [3]             [8]          [5m]         [1]              [3]        G7
   O Senhor estendeu sua mão para mim e me deu a vitória
-C        D               G            Em           C                D         G
+C       [3]             [8]          [5m]         [1]              [3]        G
+  O Senhor estendeu sua mão para mim e me deu a vitória
+
+
+G                      [12m]                   [1]    D
+   Quem pode livrar como o Senhor
+G                 [12m]                        [1]    D	      
+   Ele é poderoso para me guardar        
+G                      [12m]                   [1]    D
+   Quem pode livrar como o Senhor
+G                 [12m]                        [1]    D	      
+   Ele é poderoso para me guardar        
+   
+
+G                   [12m]       Am
+   Quando os meus inimigos
+G             [12m]                 Am
+   Se levantaram contra mim
+C       [3]             [8]          [5m]         [1]              [3]        G7
+  O Senhor estendeu sua mão para mim e me deu a vitória
+C       [3]             [8]          [5m]         [1]              [3]        G
   O Senhor estendeu sua mão para mim e me deu a vitória
