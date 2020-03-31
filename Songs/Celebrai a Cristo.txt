@@ -1,29 +1,29 @@
-CELEBRAI A CRISTO
+CELEBRAI[10]CRISTO
 
 Intro:
-D          G         A          D           G   A
+D         [8]       [10]        [3]         [8]  A
      Celebrai a Cristo, celebrai 
-D          G         A          D           G   A
+D         [8]       [10]        [3]         [8]  A
      Celebrai a Cristo, celebrai 
 
 
 
-D          G         A          D           G   A
+D         [8]       [10]        [3]         [8]  A
      Celebrai a Cristo, celebrai 
-D          G         A          D           G   A
+D         [8]       [10]        [3]         [8]  A
      Celebrai a Cristo, celebrai 
-D          G         A          D           G   A
+D         [8]       [10]        [3]         [8]  A
      Celebrai a Cristo, celebrai 
-D          G         A          D           
+D         [8]       [10]        [3]          
      Celebrai a Cristo, celebrai 
  
-                A                    Bm             A               Bm
+               [10]                  [12m]           [10]              Bm
 Ressuscitou, ressuscitou e hoje vive para sempre
-                A                    Bm             A               Bm
+               [10]                  [12m]           [10]              Bm
 Ressuscitou, ressuscitou e hoje vive para sempre
-A                           G G#  A                         G G#   A
+A                          [8]G# [10]                       [8]G#   A
 Vamos celebrar            vamos celebrar             vamos celebrar
-                G    A     D          
+               [8]  [10]   [3]         
 Ressuscitou o Senhor.
 
 

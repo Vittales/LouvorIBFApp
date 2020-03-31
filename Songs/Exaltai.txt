@@ -1,45 +1,45 @@
 EXALTAI
 
 Intro:
-F#m                                    B            F#m			               B
+F#m                                   [12]           F#m			               B
          Entrarei em Tua presença,              Com sacrifícios de louvor
 C                                             D	               C			             B
          Com canções eu Te exaltarei,               Bendito seja o Senhor.
 		
 
 
-F#m                                    B           F#m	                                   B    
+F#m                                   [12]          F#m	                                  [12]   
          Entrarei em Tua presença,              Com sacrifícios de louvor
 C                                             D	             C			           B
          Com canções eu Te exaltarei, 	            Bendito seja o Senhor.
 
-F#m                             B                F#m			           B  
+F#m                            [12]               F#m			          [12] 
      Toda glória eu Te darei,              Do pecado me livraste
 C                                         D	     C			             B
            Agora estou justificado,             Bendito seja o Senhor.
 
 	
-E                 A                       B           E            A                      B 
+E                [10]                     [12]         [5]          [10]                    [12]
 Exaltai! Engrandecei Seu nome.   Exaltai! Ao Senhor louvai.
-E                 A                        B               A     B        E
-Exaltai! Engrandecei Seu nome.   A Ele sim louvai!
+E                [10]                      [12]             [10]   [12]       E
+Exaltai! Engrandecei Seu nome.  [10]Ele sim louvai!
 
 
 
-F#m                                    B           F#m	                                   B    
+F#m                                   [12]          F#m	                                  [12]   
          Entrarei em Tua presença               Com sacrifícios de louvor
 C                                             D	             C			           B
          Com canções eu Te exaltarei  	            Bendito seja o Senhor.
 
-F#m                             B                F#m			           B  
+F#m                            [12]               F#m			          [12] 
      Toda glória eu Te darei               Do pecado me livraste
 C                                         D	     C			             B
            Agora estou justificado	              Bendito seja o Senhor.
 	
 
-E                 A                       B           E            A                      B 
+E                [10]                     [12]         [5]          [10]                    [12]
 Exaltai! Engrandecei Seu nome.   Exaltai! Ao Senhor louvai.
-E                 A                        B               A     B        E
-Exaltai! Engrandecei Seu nome.   A Ele sim louvai!
-          C     A   B    E  
+E                [10]                      [12]             [10]   [12]       E
+Exaltai! Engrandecei Seu nome.  [10]Ele sim louvai!
+         [1]   [10] [12]  [5] 
 A Ele sim louvai. EXALTAI!

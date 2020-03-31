@@ -1,45 +1,45 @@
 CADA INSTANTE
 
 Intro:
-   F#m               Am      G#m          C#m
+  [7m]             [10m]   [9m]         C#m
 É paz em minh'alma suave harmonia           
-      F#m B          E
+      F#m[12]         E
 No teu grande amor
     
 
 
-E          B        Bm        A   Am     E
+E         [12]      [12m]      [10] [10m]    E
 Cada instante        conti - go, Senhor,
-       A  Am            G#m  C#m
+      [10][10m]         [9m] C#m
 Que passo a teus pes
-      F#m           B
+     [7m]          B
 Eu sou mais feliz
-E          B        Bm        A   Am    G#m  C#
+E         [12]      [12m]      [10] [10m] [9m] C#
 Cada instante        conti - go, Jesus
-   F#m               Am      G#m          C#m
+  [7m]             [10m]   [9m]         C#m
 É paz em minh'alma suave harmonia
-     F#m B          Bm  D
+     F#m[12]        [12m] D
 No teu grande amor
-   F#m               Am      G#m          C#m
+  [7m]             [10m]   [9m]         C#m
 É paz em minh'alma suave harmonia           
-      F#m B          E
+      F#m[12]         E
 No teu grande amor
 
 
-E          B        Bm        A   Am     E
+E         [12]      [12m]      [10] [10m]    E
 Cada instante        conti - go, Senhor,
-       A  Am            G#m  C#m
+      [10][10m]         [9m] C#m
 Que passo a teus pes
-      F#m           B
+     [7m]          B
 Eu sou mais feliz
-E          B        Bm        A   Am    G#m  C#
+E         [12]      [12m]      [10] [10m] [9m] C#
 Cada instante        conti - go, Jesus
-   F#m               Am      G#m          C#m
+  [7m]             [10m]   [9m]         C#m
 É paz em minh'alma suave harmonia
-     F#m B          Bm  D
+     F#m[12]        [12m] D
 No teu grande amor
-   F#m               Am      G#m          C#m
+  [7m]             [10m]   [9m]         C#m
 É paz em minh'alma suave harmonia           
-      F#m B          E
+      F#m[12]         E
 No teu grande amor
 

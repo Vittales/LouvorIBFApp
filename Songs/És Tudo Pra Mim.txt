@@ -1,48 +1,48 @@
 ÉS TUDO PRA MIM
 
 Intro:
-E      B   A    B              E      B   A         B
+E     [12] [10]  [12]            [5]    [12] [10]        B
    Tu és     o Criador,      Tu és     o Redentor 
-E      B   A    E                          F#m  E      A   B 
+E     [12] [10]  [5]                        [7m][5]    [10] [12]
    Tu és     o centro da minha vi  -   da,  Je...sus 
 
 
-E      B   A    B              E      B   A         B
+E     [12] [10]  [12]            [5]    [12] [10]        B
    Tu és     o Criador,      Tu és     o Redentor 
-E      B   A    E                          F#m  E     A    B 
+E     [12] [10]  [5]                        [7m][5]   [10]  [12]
    Tu és     o centro da minha vi  -   da,  Je...sus 
-E      B   A    B                 E      B   A    B
+E     [12] [10]  [12]               [5]    [12] [10]   B
    Tu és     o Salvador,      Tu és     o Deus de amor 
-E      B   A    E                          F#m  E     A  
+E     [12] [10]  [5]                        [7m][5]   [10] 
    Tu és     o centro da minha vi  -   da,  Jesus 
-B                               C#m                    D            
+B                              [2m]                  [3]           
    Tu és aquele que me amou e só a Ti eu louvo 
  
-                            E   B  A   B                E     B  A 
+                           [5] [12][10] [12]              [5]   [12][10]
    Teu amor sem fim          É tudo pra mim
-   B                  C#m B  A  B    E        B
+  [12]                 C#m[12][10][12]  [5]       B
    Eu vivo pra Ti               Je...sus 
-                            E   B  A   B                E     B  A 
+                           [5] [12][10] [12]              [5]   [12][10]
    Teu amor sem fim          É tudo pra mim
-        B             C#m B  A  B    E     B  A  B 
+       [12]            C#m[12][10][12]  [5]   [12][10][12]
    Eu vivo pra Ti               Je...sus     
  
-E      B   A    B                      E      B   A       B
+E     [12] [10]  [12]                    [5]    [12] [10]      B
    Tu és    o  Rei glorioso,      Tu és     tão poderoso
-E      B   A    E                          F#m  E     A    B 
+E     [12] [10]  [5]                        [7m][5]   [10]  [12]
    Tu és     o centro da minha vi  -   da,  Je...sus 
-E      B   A     B                  E      B   A       B
+E     [12] [10]   [12]                [5]    [12] [10]      B
    Tu és     maravilhoso,      Tu és     tão grandioso
-E      B   A    E                          F#m  E     A  
+E     [12] [10]  [5]                        [7m][5]   [10] 
    Tu és     o centro da minha vi  -   da,  Jesus 
-B                               C#m                    D            
+B                              [2m]                  [3]           
    Tu és aquele que me amou e só a Ti eu louvo 
  
-                            E   B  A   B                E     B  A 
+                           [5] [12][10] [12]              [5]   [12][10]
    Teu amor sem fim          É tudo pra mim
-   B                  C#m B  A  B    E        B
+  [12]                 C#m[12][10][12]  [5]       B
    Eu vivo pra Ti               Je...sus 
-                            E   B  A   B                E     B  A 
+                           [5] [12][10] [12]              [5]   [12][10]
    Teu amor sem fim          É tudo pra mim
-        B             C#m B  A  B    E     B  A  B    E   B  A  B    E   B  A  B  E     
+       [12]            C#m[12][10][12]  [5]   [12][10][12]  [5] [12][10][12]  [5] [12][10][12][5]    
    Eu vivo pra Ti               Je...sus          Je...sus        Je...sus     

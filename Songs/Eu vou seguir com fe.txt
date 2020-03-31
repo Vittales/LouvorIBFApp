@@ -1,41 +1,41 @@
 EU VOU SEGUIR COM FÉ
 
 Intro:
-E                G#m                    A                                              			E
+E              [9m]                  [10]                                             			E
 Eu sei prá onde vou, como águia vou,  Nas alturas sou filho de Deus  
 
 
 
-E                           	          		      G#m  
+E                           	          		    [9m] 
 O meu Deus é maior que os meus problemas
-             A            B
+            [10]           B
 Eu não temerei, com Jesus eu vou além
-E                                             G#m                      A
+E                                           [9m]                     A
 Ainda que a figueira não floresça, e não haja frutos na videira
 B                  
 Eu não temerei, não
 
-C#m                                                   B                                         A
+C#m                                                  [12]                                        A
 Pois sei que para além das nuvens,  o sol não deixou de brilhar
-                                          E      B         C#m 
+                                         [5]    [12]       [2m]
 Só porque a terra escureceu, oh!oh!   a minha vida está em Deus
-B                                           A           
+B                                          [10]          
 Eu sei que tudo posso em Deus, é Ele quem me fortalece
 
-E                G#m                             A
+E              [9m]                            A
 Eu vou seguir com fé, com meu Deus eu vou
-            A                                E
+           [10]                               E
 Para a rocha mais alta que eu
-E                G#m                    A    
+E              [9m]                  [10]   
 Eu sei prá onde vou, como águia vou
                                                  E
 Nas alturas sou filho de Deus        
 
-E                                                       G#m              A
+E                                                     [9m]             A
 O meu Deus sabe tudo que eu preciso, prá sentir a paz
 B
 Dentro do meu coração
-E                                 G#m                         A
+E                               [9m]                        A
 Ainda que a lua adormeça, e não haja o brilho das estrelas
 B                 
 Eu não temerei, não 
@@ -44,5 +44,5 @@ Eu não temerei, não
      Eu vou seguir com fé... (2x)
      
 Final:
- A                                      E                A                                      E
+[10]                                    [5]              [10]                                     E
 Nas alturas sou filho de Deus,       Nas alturas sou filho de Deus        

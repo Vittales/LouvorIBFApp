@@ -1,47 +1,47 @@
 GLORIFICO NOSSO DEUS
 
 Intro:
-G         C                D        C
+G        [1]              [3]       C
     Glorifico nosso Deus
-G             C                     D      C
+G            [1]                   [3]     C
     Ergo a voz em seu louvor
 
 
 
-G          C                 D       C
+G         [1]               [3]      C
     Glorifico nosso Deus
-G              C                       D       C
+G             [1]                     [3]      C
     Ergo a voz em seu louvor
-G            C                   D       C
+G           [1]                 [3]      C
     Sou feliz por seu amor
-G                C                   D       C
+G               [1]                 [3]      C
     Pois desceu pra me salvar
 
-G                  C            D             C       G 
+G                 [1]          [3]           [1]     [8]
 Deixou seu lar lá no céu, prá me salvar
-         C              D              C       G  
+        [1]            [3]            [1]     [8] 
 Humilhado na cruz, prá me salvar
-            C                D           Em             Am
+           [1]              [3]         [5m]            Am
 Para a tumba fria foi e de lá ressuscitou
-              D                     G     C  D  C
+             [3]                   [8]   [1][3] C
 Ao seu nome glórias dou
 
-G          C                           D       C
+G         [1]                         [3]      C
     Agradeço ao Deus do céu
-G          C                       D       C
+G         [1]                     [3]      C
     Por livrar-me do pecado
-G         C                        D       C
+G        [1]                      [3]      C
     O Senhor me perdoou
-G             C                 D       C  
+G            [1]               [3]     [1] 
     Eu me sinto resgatado
 
-G                  C            D             C       G 
+G                 [1]          [3]           [1]     [8]
 Deixou seu lar lá no céu, prá me salvar
-         C              D              C       G  
+        [1]            [3]            [1]     [8] 
 Humilhado na cruz, prá me salvar
-            C                D           Em             Am
+           [1]              [3]         [5m]            Am
 Para a tumba fria foi e de lá ressuscitou
-              D                     G     C  D  C  G
+             [3]                   [8]   [1][3][1] G
 Ao seu nome glórias dou
 
 
