@@ -12,10 +12,10 @@ D
 Trazendo paz ao meu viver 
 D
 E pela mão vais me guiar quando no vale eu passar
-   [8]        [10]     D
+   [8]        [10]   [3]
 E eu não temerei (2x)
 
-D                  [8]     [10]   [3]                [8]     [10]  [3]
+[3]                [8]     [10]   [3]                [8]     [10]  [3]
 Pois no controle Tu estás, No controle Tu estás
             [8]     [10]  [3]                 [8]     [10]  [3]
 No controle Tu estás, No controle Tu estás
@@ -26,23 +26,23 @@ D
 Trazendo paz ao meu viver 
 D
 E pela mão vais me guiar quando no vale eu passar
-   [8]        [10]     D
+   [8]        [10]   [3]
 E eu não temerei
 
-D                  [8]     [10]   [3]                [8]     [10]  [3]
+[3]                [8]     [10]   [3]                [8]     [10]  [3]
 Pois no controle Tu estás, No controle Tu estás
             [8]     [10]  [3]                 [8]     [10]  [3]
 No controle Tu estás, No controle Tu estás
 
-C                              [8]            [3]     [1]                              [8]      D
+[1]                            [8]            [3]     [1]                              [8]    [3]
 Fazes a tudo cooperar pra o bem, Pois um plano soberano tens
-     [5m]    [10]           [3]          [5m] [10]      [3]              [5m]  [10]       D
+     [5m]    [10]           [3]          [5m] [10]      [3]              [5m]  [10]     [3]
 Tu sabes quem eu sou e criaste o que sou e me amas como sou
-     [5m]    [10]           [3]          [5m] [10]      [3]              [5m]  [10]       D
+     [5m]    [10]           [3]          [5m] [10]      [3]              [5m]  [10]     [3]
 e Tu sabes quem eu sou e criaste o que sou e me amas como sou
 
 
-D                  [8]     [10]   [3]                [8]     [10]  [3]
+[3]                [8]     [10]   [3]                [8]     [10]  [3]
 Pois no controle Tu estás, No controle Tu estás
             [8]     [10]  [3]                 [8]     [10]  [3]
 No controle Tu estás, No controle Tu estás
