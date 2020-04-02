@@ -1,33 +1,33 @@
 LOUVADO SEJA
 
 Intro:
-G                 [3]     [6]                    [1]   
+[8]               [3]     [6]                    [1]   
     Louvado seja,     Senhor Teu nome
-Cm         [8]   [5m] [10m]                   [3]         
-    Entronizado,              entre as nações 
+[1m]       [8]   [5m] [10m]                   [3]         
+  [5]ntronizado,              entre as nações 
 
 
  
-G                 [3]     [6]                   [1]   
+[8]               [3]     [6]                   [1]   
     Louvado seja,     Senhor teu nome
-Cm         [8]    [5m] [10m]                   [3]         
-    Entronizado,               entre as nações 
-G          [3]   [6]            C
-    Exaltarei,     a Ti Senhor
-Cm                   [8] [5m] [10m]            [3]        
+[1m]       [8]    [5m] [10m]                   [3]         
+  [5]ntronizado,               entre as nações 
+[8]        [3]   [6]          [1]
+  [5]xaltarei,     a Ti Senhor
+[1m]                 [8] [5m] [10m]            [3]        
     Pelo que Tu és,          eu Te adorarei
 
-G                           D/F#                 [6]                  C
+[8]                       [3]/[7]               [6]                [1]
 Recebe a minha adoração que é fruto de tua graça a mim
-   [1m]                           [8]                        [10m]                  D7   
+   [1m]                           [8]                        [10m]                [3]7   
 E do Teu amor, que restaura em mim o meu amor por Ti, Jesus.
-G                D/F#     [6]                    [1]       
+[8]            [3]/[7]   [6]                    [1]       
 Engrandecerei, e exaltarei o Teu nome
-[1m]                     [8]                           [10m]           [3]     D7
+[1m]                     [8]                           [10m]           [3]   [3]7
 Diante dos reis e dos poderosos eu louvarei a Ti, Senhor
-G                D/F#     [6]                    [1]       
+[8]            [3]/[7]   [6]                    [1]       
 Engrandecerei, e exaltarei o Teu nome
-[1m]                     [8]                           [10m]           [3]             G
+[1m]                     [8]                           [10m]           [3]           [8]
 Diante dos reis e dos poderosos eu louvarei a Ti, Senhor
 
 

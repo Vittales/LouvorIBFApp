@@ -1,45 +1,45 @@
 EXALTAI
 
 Intro:
-F#m                                   [12]           F#m			               B
-         Entrarei em Tua presença,              Com sacrifícios de louvor
-C                                             D	               C			             B
-         Com canções eu Te exaltarei,               Bendito seja o Senhor.
+[7m]                                 [12]         [7m]			             [12]
+       [5]ntrarei em Tua presença,            [1]om sacrifícios de louvor
+[1]                                         [3]	             [1]			           [12]
+       [1]om canções eu Te exaltarei,             [12]endito seja o Senhor.
 		
 
 
-F#m                                   [12]          F#m	                                  [12]   
-         Entrarei em Tua presença,              Com sacrifícios de louvor
-C                                             D	             C			           B
-         Com canções eu Te exaltarei, 	            Bendito seja o Senhor.
+[7m]                                 [12]        [7m]	                                  [12]   
+       [5]ntrarei em Tua presença,            [1]om sacrifícios de louvor
+[1]                                         [3]	           [1]			         [12]
+       [1]om canções eu Te exaltarei, 	          [12]endito seja o Senhor.
 
-F#m                            [12]               F#m			          [12] 
-     Toda glória eu Te darei,              Do pecado me livraste
-C                                         D	     C			             B
-           Agora estou justificado,             Bendito seja o Senhor.
+[7m]                          [12]             [7m]			          [12] 
+     Toda glória eu Te darei,            [3]o pecado me livraste
+[1]                                     [3]	   [1]			           [12]
+         [10]gora estou justificado,           [12]endito seja o Senhor.
 
 	
-E                [10]                     [12]         [5]          [10]                    [12]
-Exaltai! Engrandecei Seu nome.   Exaltai! Ao Senhor louvai.
-E                [10]                      [12]             [10]   [12]       E
+[5]              [10]                     [12]         [5]          [10]                    [12]
+Exaltai! Engrandecei Seu nome. [5]xaltai! Ao Senhor louvai.
+[5]              [10]                      [12]             [10]   [12]     [5]
 Exaltai! Engrandecei Seu nome.  [10]Ele sim louvai!
 
 
 
-F#m                                   [12]          F#m	                                  [12]   
-         Entrarei em Tua presença               Com sacrifícios de louvor
-C                                             D	             C			           B
-         Com canções eu Te exaltarei  	            Bendito seja o Senhor.
+[7m]                                 [12]        [7m]	                                  [12]   
+       [5]ntrarei em Tua presença             [1]om sacrifícios de louvor
+[1]                                         [3]	           [1]			         [12]
+       [1]om canções eu Te exaltarei  	          [12]endito seja o Senhor.
 
-F#m                            [12]               F#m			          [12] 
-     Toda glória eu Te darei               Do pecado me livraste
-C                                         D	     C			             B
-           Agora estou justificado	              Bendito seja o Senhor.
+[7m]                          [12]             [7m]			          [12] 
+     Toda glória eu Te darei             [3]o pecado me livraste
+[1]                                     [3]	   [1]			           [12]
+         [10]gora estou justificado	            [12]endito seja o Senhor.
 	
 
-E                [10]                     [12]         [5]          [10]                    [12]
-Exaltai! Engrandecei Seu nome.   Exaltai! Ao Senhor louvai.
-E                [10]                      [12]             [10]   [12]       E
+[5]              [10]                     [12]         [5]          [10]                    [12]
+Exaltai! Engrandecei Seu nome. [5]xaltai! Ao Senhor louvai.
+[5]              [10]                      [12]             [10]   [12]     [5]
 Exaltai! Engrandecei Seu nome.  [10]Ele sim louvai!
          [1]   [10] [12]  [5] 
 A Ele sim louvai. EXALTAI!

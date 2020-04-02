@@ -1,39 +1,39 @@
 ﻿ACIMA DE TODOS
 
 Intro:
-E               A       [12]                   [5]
+E             [10]       [12]                   [5]
 Acima de todos     governos e reis
-                 A             B                  [5]
+               [10]           [12]                  [5]
 Acima de toda natureza que se fez
 
 
 
-E               A       [12]                   [5]
+E             [10]       [12]                   [5]
 Acima de todos     governos e reis
-                 A             B                  [5]
+               [10]           [12]                  [5]
 Acima de toda natureza que se fez
-                 C#m     B                [10]    E
+               [2m]   [12]                 [10]  [5]
 Acima de todo saber e conhecer
-        F#m7                          [12]       [5]
+      [7m]7                          [12]       [5]
 Não há como medir o teu poder
 
-                 A        [12]            [5]
+               [10]        [12]            [5]
 Acima de reinos,    civilizações
-                 A                    B                     [5]
+               [10]                  [12]                     [5]
 Acima de todas as conquistas das nações
-                 C#m   B                      [10]    E
+               [2m]   [12]                      [10]  [5]
 Acima de toda riqueza e esplendor
-        F#m7          [10]             [9]  
+      [7m]7          [10]             [9]  
 Não há como medir o teu valor
 
 
-E        F#m    [12]           E
+E      [7m]     [12]         [5]
 Entre nós crucificado foi
-E    F#m    [12]                E
+[5]  [7m]    [12]              [5]
 Apesar de tudo ser Senhor
-        C#m   E                [10]  E
+      [2m][5]                [10][5]
 Padeceu    rejeitado e só
-              F#m   E                       [10] [12]                       [5]        
+            [7m]  [5]                       [10] [12]                       [5]        
 Na rude cruz,     mais que em Si        pensava em nós      
 
 
@@ -41,8 +41,8 @@ Na rude cruz,     mais que em Si        pensava em nós     
 
 
 Final:
-        C#m   E                [10]  E
+      [2m] [5]                [10][5]
 Padeceu    rejeitado e só
-              F#m   E                       [10] [12]                       [5]        
+            [7m] [5]                       [10] [12]                       [5]        
 Na rude cruz,     mais que em Si        pensava em nós      
 

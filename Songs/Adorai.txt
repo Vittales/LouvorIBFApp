@@ -1,18 +1,18 @@
 ﻿ADORAI
 
 Intro:
-           [5]                 [12]                        [10]    E
+           [5]                 [12]                        [10]  [5]
 Ele morreu, Ele venceu, É o Rei dos reis.
 
 
 
-E                         [10]  
+[5]                       [10]  
 Adorai em majestade
          [5]              [7]                      [7m]  [12]   
 Toda glória seja dada a Cristo Jesus;
-E                       [10]  
+[5]                     [10]  
 Adorai em santidade
-                [5]                    [7m]                 [5]   [10]  E
+                [5]                    [7m]                 [5]   [10][5]
 Vinde, louvai e vos prostrai aos pés da cruz.
 
 
@@ -22,11 +22,11 @@ Exaltai, bem alto erguei de Cristo o nome;
 Adorai, glorificai Jesus Cristo, o Rei.	
 
 
-E                           A
+[5]                       [10]
 Adorai em  majestade
-           [5]                 [12]                        [5]    A
+           [5]                 [12]                        [5]  [10]
 Ele morreu, Ele venceu, É o Rei dos reis.
-           [5]                 [12]                        [10]    E
+           [5]                 [12]                        [10]  [5]
 Ele morreu, Ele venceu, É o Rei dos reis.
 
 	

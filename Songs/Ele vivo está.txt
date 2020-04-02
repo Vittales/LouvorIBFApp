@@ -1,26 +1,26 @@
 ELE VIVO ESTÁ
 
 Intro:
-           E7    A7           E7   A7
+         [5]7  [10]7         [5]7 [10]7
 Creio sim,       creio sim
 
 
 
-E7                   A7                 E7                           A7
-    Eu sei, ele me resgatou,    seu sangue me purificou
-           E7   A7           E7   A7
+E7                 [10]7               [5]7                         [10]7
+  [5]u sei, ele me resgatou,    seu sangue me purificou
+         [5]7 [10]7         [5]7 [10]7
 Creio sim,       creio sim
-E7                  A7           E7                  A7
+E7                [10]7         [5]7                [10]7
      Vergonha Ele tirou,    da dor me aliviou
-           E7    A7            E7    A7
+         [5]7  [10]7          [5]7  [10]7
 Creio sim,         creio sim
-B                                  [10]                  B
-   Ergo a bandeira, oooo     Jesus é o vencedor
+[12]                                [10]                [12]
+ [5]rgo a bandeira, oooo     Jesus é o vencedor
 
-      [5]       [10]        [2m]  B
-Ele vivo está,  Ele vivo está
-      [5]       [10]        [2m]  B
-Ele vivo está,  Ele vivo está
+      [5]       [10]        [2m][12]
+Ele vivo está,[5]le vivo está
+      [5]       [10]        [2m][12]
+Ele vivo está,[5]le vivo está
 
 
 Eu sei....
@@ -29,17 +29,17 @@ Eu sei....
 	Ele vivo esta...
 
 
-D                           A
+[3]                       [10]
    Meu fardo leva,     comigo está 
-       [5]                 F#m7    [5]                B
+       [5]               [7m]7    [5]              [12]
 Vou esperar e celebrar  até Jesus voltar
 
 
-      [5]       [10]        [2m]  B
-Ele vivo está,  Ele vivo está
-      [5]       [10]        [2m]  B
-Ele vivo está,  Ele vivo está
-      [5]       [10]        [2m]  B
-Ele vivo está,  Ele vivo está
-      [5]       [10]        [2m] [12]    [5]  [10]   [2m]   [12]    E
-Ele vivo está,  Ele vivo está
+      [5]       [10]        [2m][12]
+Ele vivo está,[5]le vivo está
+      [5]       [10]        [2m][12]
+Ele vivo está,[5]le vivo está
+      [5]       [10]        [2m][12]
+Ele vivo está,[5]le vivo está
+      [5]       [10]        [2m] [12]    [5]  [10]   [2m]   [12]  [5]
+Ele vivo está,[5]le vivo está

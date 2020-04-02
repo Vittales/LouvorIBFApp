@@ -1,24 +1,24 @@
 AGNUS DEI 
  
 Intro:
-G     [1]  [8]     [1]                               [3]     G
+[8]   [1]  [8]     [1]                               [3]   [8]
 Ale - lu - ia, aleluia, ao Senhor poderoso Deus
 
 
 
-G     [1]  [8]     [1]                              [3]      G
+[8]   [1]  [8]     [1]                              [3]    [8]
 Ale - lu - ia, aleluia, ao Senhor poderoso Deus
-G     [1]  [8]     [1]                              [3]      G
+[8]   [1]  [8]     [1]                              [3]    [8]
 Ale - lu - ia, aleluia, ao Senhor poderoso Deus
-    [1]         [3]G  [3]  G
+    [1]         [3][8][3][8]
 Aleluia, S-anto, Santo
-                                     D
+                                   [3]
 É o Senhor poderoso Deus
                      [1]                               
 Digno de louvor, digno de louvor
           [3]  [8] [3] [8] 
 Tu és Santo, Santo
-                                     D
+                                   [3]
 É o Senhor poderoso Deus
                      [1]                               
 Digno de louvor, digno de louvor
@@ -26,22 +26,22 @@ Digno de louvor, digno de louvor
 Tu és Santo    
 
 
-G     [1]  [8]     [1]                              [3]      G
+[8]   [1]  [8]     [1]                              [3]    [8]
 Ale - lu - ia, aleluia, ao Senhor poderoso Deus
-G     [1]  [8]     [1]                              [3]      G
+[8]   [1]  [8]     [1]                              [3]    [8]
 Ale - lu - ia, aleluia, ao Senhor poderoso Deus
-    [1]         [3]G  [3]  G
+    [1]         [3][8][3][8]
 Aleluia, S-anto, Santo
-                                     D
+                                   [3]
 É o Senhor poderoso Deus
                      [1]                               
 Digno de louvor, digno de louvor
           [3]  [8] [3] [8] 
 Tu és Santo, Santo
-                                     D
+                                   [3]
 É o Senhor poderoso Deus
                      [1]                               
 Digno de louvor, digno de louvor
-   G
+ [8]
 Amém
 

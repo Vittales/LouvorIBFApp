@@ -1,17 +1,17 @@
 CORPO[5]FAMÍLIA
 
 Intro:
-       [7m]         [2m]          [3]                A
+       [7m]         [2m]          [3]              [10]
 Coração regenerado, coração transformado, 
-       [12m]                  [10]                 E
+       [12m]                  [10]               [5]
 Coração que é inspirado por Jesus 
 
 
-       [10]                 [3]                A
+       [10]                 [3]              [10]
 Recebi um novo coração do Pai
-       [7m]         [2m]        [3]                  A
+       [7m]         [2m]        [3]                [10]
 Coração regenerado, coração transformado, 
-       [12m]                [10]                  E
+       [12m]                [10]                [5]
 Coração que é inspirado por Jesus 
 
            [10]                [3]           [10]
@@ -20,7 +20,7 @@ Como fruto desse novo coração
 Eu desejo a paz de Cristo, 
       [3]             [10] 
 Te amo meu irmão
-     [12m]         [10]                 E7
+     [12m]         [10]               [5]7
 Preciosa é a nossa comunhão
 
              [10]             [3]                 [5]         [2m]         [7m]              
@@ -29,9 +29,9 @@ Somos corpo e assim bem ajustado, totalmente ligado,
 Unido vivendo em amor
            [10]              [3]                  [5]         [2m]          [7m]       
 Uma família sem qualquer falsidade, vivendo a verdade,
-          [3]            [12m]             E
+          [3]            [12m]           [5]
 Expressando a glória do Senhor
-           [10]        [3]                         E
+           [10]        [3]                       [5]
 Uma família vivendo o compromisso 
      [2m]                   [7m]
 Do grande amor de Cristo
