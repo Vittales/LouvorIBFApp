@@ -4,13 +4,13 @@ BONDADE DE DEUS
 Te amo, Deus
       [1(7M)]/[8]      [8]
 Tua graça nunca falha
-   [3]/[7]   (5m(7))
+   [3]/[7]   [5m(7)]
 Todos os dias
       [1(7M)]/[8]       [3(6)]
 Eu estou em Tuas mãos
-                   (5m(7))  [1(7M)]/[8]
+                   [5m(7)]  [1(7M)]/[8]
 Desde quando me levanto
-        [8]     [3]/[7] (5m(7))
+        [8]     [3]/[7] [5m(7)]
 Até eu me deitar
          [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
@@ -21,7 +21,7 @@ Eu cantarei da bondade de Deus
 És fiel em todo tempo
 [1(7M)]/[8]                      [8]        [3(6)]
 Em todo tempo Tu és tão, tão bom
-[1(7M)]/[8]                      (5m(7))
+[1(7M)]/[8]                      [5m(7)]
 Com todo fôlego que tenho
          [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
@@ -32,13 +32,13 @@ Eu cantarei da bondade de Deus
 Tua doce voz
          [1(7M)]/[8]          [8]
 Que me guia em meio ao fogo
-      [3]/[7] (5m(7))
+      [3]/[7] [5m(7)]
 Na escuridão
         [1(7M)]/[8]       [3(6)]
 Tua presença me conforta
-                (5m(7))  [1(7M)]/[8]
+                [5m(7)]  [1(7M)]/[8]
 Sei que és meu Pai
-      [8]   [3]/[7] (5m(7))
+      [8]   [3]/[7] [5m(7)]
 Que amigo és
       [1(7M)]/[8]  [3]       [8]
 Vivo na bondade de Deus
@@ -49,7 +49,7 @@ Vivo na bondade de Deus
 És fiel em todo tempo
 [1(7M)]/[8]                      [8]        [3(6)]
 Em todo tempo Tu és tão, tão bom
-[1(7M)]/[8]                      (5m(7))
+[1(7M)]/[8]                      [5m(7)]
 Com todo fôlego que tenho
 [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
@@ -58,7 +58,7 @@ Eu cantarei da bondade de Deus
 És fiel em todo tempo
 [1(7M)]/[8]                      [8]        [3(6)]
 Em todo tempo Tu és tão, tão bom
-[1(7M)]/[8]                      (5m(7))
+[1(7M)]/[8]                      [5m(7)]
 Com todo fôlego que tenho
 [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
@@ -79,7 +79,7 @@ Me seguirá Senhor
 
        [8]/[12]            [1(7M)]/[8]               
 Eu me rendo a Ti, te dou o meu ser
-    [3(6)]          (5m(7))
+    [3(6)]          [5m(7)]
 Entrego tudo a Ti
 [8]/[12]                 [1(7M)]/[8]
     Tua bondade me seguirá
@@ -97,7 +97,7 @@ Me seguirá Senhor
 
        [8]/[12]            [1(7M)]/[8]               
 Eu me rendo a Ti, te dou o meu ser
-    [3(6)]          (5m(7))
+    [3(6)]          [5m(7)]
 Entrego tudo a Ti
 [8]/[12]                 [1(7M)]/[8]
     Tua bondade me seguirá
@@ -110,7 +110,7 @@ Me seguirá Senhor
       És fiel em todo tempo
 [1(7M)]/[8]                      [8]        [3(6)]
       Em todo tempo Tu és tão, tão bom
-[1(7M)]/[8]                      (5m(7))
+[1(7M)]/[8]                      [5m(7)]
       Com todo fôlego que tenho
          [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
@@ -119,7 +119,7 @@ Eu cantarei da bondade de Deus
       És fiel em todo tempo
 [1(7M)]/[8]                      [8]        [3(6)]
       Em todo tempo Tu és tão, tão bom
-[1(7M)]/[8]                      (5m(7))
+[1(7M)]/[8]                      [5m(7)]
       Com todo fôlego que tenho
          [1(7M)]/[8]     [3(6)]      [8]
 Eu cantarei da bondade de Deus
